@@ -3,7 +3,11 @@ CS Café :coffee:
 
 A group of ASU Computer Science students collaborating on a single repository holding multiple projects.
 
-https://cscafe.codes
+[cscafe.codes](https://cscafe.codes)
+
+[Discord](https://cscafe.dev)
+
+Please read [Contributing guidelines](https://github.com/Glowstick0017/CS-Cafe/blob/main/CODE_OF_CONDUCT.md)
 
 main branch contains the webpage, project information, and anything you'd like to add
 
