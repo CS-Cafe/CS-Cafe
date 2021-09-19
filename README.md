@@ -1,2 +1,2 @@
-# CS-Caf-
+# CS-Cafe
 CS Café :coffee:
