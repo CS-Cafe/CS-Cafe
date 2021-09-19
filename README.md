@@ -1,6 +1,6 @@
 # CS-Cafe
 CS Café :coffee:
 
-https://cscafe.codes
+http://cscafe.codes
 
 Muahahahahaha :smiling_imp:
