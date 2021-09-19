@@ -7,7 +7,7 @@ A group of ASU Computer Science students collaborating on a single repository ho
 
 [Discord](https://cscafe.dev)
 
-Please read [Contributing guidelines](https://github.com/Glowstick0017/CS-Cafe/blob/main/CODE_OF_CONDUCT.md)
+Please read [Contributing guidelines](https://github.com/Glowstick0017/CS-Cafe/blob/main/CODE_OF_CONDUCT.md) and the [Code of Conduct](https://github.com/Glowstick0017/CS-Cafe/blob/main/CODE_OF_CONDUCT.md)
 
 main branch contains the webpage, project information, and anything you'd like to add
 
