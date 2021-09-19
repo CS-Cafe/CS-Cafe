@@ -1,7 +1,7 @@
 # CS-Cafe
 CS Café :coffee:
 
-A group of ASU Computer Science students collaborating on a single project.
+A group of ASU Computer Science students collaborating on a single repository holding multiple projects.
 
 https://cscafe.codes
 
