@@ -5,7 +5,7 @@ A group of ASU Computer Science students collaborating on a single repository ho
 
 https://cscafe.codes
 
-main branch contains the webpage and anything you'd like to add
+main branch contains the webpage, project information, and anything you'd like to add
 
 cpp branch is for students to work in C++
 
