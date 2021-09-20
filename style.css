@@ -7,6 +7,10 @@ p {
 	font-family:"Gluten", Helvetica, Arial, sans-serif;
 }
 
+body {
+	font-family:"monospace";
+}
+
 h1 {
 	font-family:"Nunito", Helvetica, Arial, sans-serif;
 	color: #8e0c3a;
