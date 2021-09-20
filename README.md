@@ -12,4 +12,3 @@ Please read [Contributing guidelines](https://github.com/Glowstick0017/CS-Cafe/b
 Feel free to create a repository for any projects you'd like to start and work on with others! (:
 
 Muahahahahaha :smiling_imp:
-t
