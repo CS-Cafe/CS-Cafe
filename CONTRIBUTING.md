@@ -1,5 +1,5 @@
-# Contributing to CS cafe
-This is an open project to all students of CS Cafe. You may all
+# Contributing to CS café ☕
+This is an open project to all students of CS Café. You may all
 
 - Open new branches as projects
 - Commit anything you'd like
