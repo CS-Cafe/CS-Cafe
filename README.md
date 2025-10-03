@@ -1,4 +1,4 @@
-# CS-Café
+# CS-Café 1
 CS Café :coffee:
 
 A group of ASU Computer Science students collaborating on a projects across repositories.
